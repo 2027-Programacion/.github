@@ -4,6 +4,7 @@ https://www.ual.es/estudios/grados/presentacion/plandeestudios/asignatura/4410/4
 
 En esta asignatura de la Universidad de Almería se desarrollarán los contenidos que facilitarán a los alumnos del primer curso de los grados de Ingenierías esta universidad la adquisición de las competencias en el ámbito de la programación y la inteligencia computacional. Se deben consultar los contenidos y enlaces publicados en la plataforma oficial de docencia virtual de la Universidad.
 
+El material al que solo tendrás acceso si estas matriculado esté en: https://potential-fishstick-v33947l.pages.github.io/
 
 ## Competencias
 Competencias genéricas del RD. 1393/2007
