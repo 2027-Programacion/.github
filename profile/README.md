@@ -2,9 +2,9 @@
 
 https://www.ual.es/estudios/grados/presentacion/plandeestudios/asignatura/4410/44101107?idioma=es_ES
 
-En esta asignatura de la Universidad de Almería se desarrollarán los contenidos que facilitarán a los alumnos del primer curso de los grados de Ingenierías esta universidad la adquisición de las competencias en el ámbito de la programación y la inteligencia computacional. Se deben consultar los contenidos y enlaces publicados en la plataforma oficial de docencia virtual de la Universidad.
+En esta asignatura de la Universidad de Almería se desarrollarán los contenidos que facilitarán a los alumnos del primer curso de los grados de Ingenierías esta universidad la adquisición de las competencias en el ámbito de la programación y la inteligencia computacional. Se deben consultar los contenidos y enlaces publicados en la plataforma oficial de docencia virtual de la Universidad, para poder realizar la inscripción.
 
-- El material al que solo tendrás acceso si estas matriculado esté en: https://potential-fishstick-v33947l.pages.github.io/
+- El material al que solo tendrás acceso si estas inscrito en la organización esté en: https://potential-fishstick-v33947l.pages.github.io/
 
 - De igual manera para la personalización para windows de vs-code: https://github.com/2027-Programacion/vscode-portable/releases/tag/vscode
 
